@@ -22,7 +22,7 @@ public class Triangle {
             }
             exit = sc.next();
         } while (exit.equals("y") || exit.equals("yes"));
-        displayResult(name, square);
+        //displayResult(name, square);
     }
 
     public static double squareCalc (double a, double b, double c){
