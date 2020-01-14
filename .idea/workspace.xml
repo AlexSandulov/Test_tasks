@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="215af47b-a92d-4174-a8b5-5fd962dd8eac" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -180,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578939561285</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="New changes">
+      <created>1578997212680</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1578997212680</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,9 +218,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2728" y="410" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578994842854" />
-    <state x="746" y="182" width="928" height="813" key="CommitChangelistDialog2" timestamp="1578939560970">
-      <screen x="0" y="23" width="1920" height="979" />
+    <state x="2666" y="169" width="928" height="813" key="CommitChangelistDialog2" timestamp="1578997211942">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
+    <state x="2666" y="169" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578997211942" />
     <state x="746" y="182" width="928" height="813" key="CommitChangelistDialog2/0.23.1920.979@0.23.1920.979" timestamp="1578939560970" />
     <state width="866" height="325" key="GridCell.Tab.0.bottom" timestamp="1578848098906">
       <screen x="0" y="23" width="1920" height="979" />
