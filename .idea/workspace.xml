@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="215af47b-a92d-4174-a8b5-5fd962dd8eac" name="Default Changelist" comment="">
+    <list default="true" id="215af47b-a92d-4174-a8b5-5fd962dd8eac" name="Default Changelist" comment="New changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +49,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager" selected="Application.Triangle">
     <configuration name="Exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -127,7 +129,7 @@
       <workItem from="1578399128240" duration="7759000" />
       <workItem from="1578843091535" duration="365000" />
       <workItem from="1578843608559" duration="4439000" />
-      <workItem from="1578939137409" duration="424000" />
+      <workItem from="1578939137409" duration="736000" />
     </task>
     <task id="LOCAL-00001" summary="New changes">
       <created>1575665803947</created>
@@ -178,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578939561285</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="New changes">
+      <created>1578939613061</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1578939613061</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,10 +215,14 @@
       <screen x="0" y="23" width="1920" height="979" />
     </state>
     <state x="811" y="260" key="#Deployment/0.23.1920.979@0.23.1920.979" timestamp="1578939495830" />
-    <state x="746" y="182" width="928" height="813" key="CommitChangelistDialog2" timestamp="1578939560970">
+    <state x="746" y="182" width="928" height="813" key="CommitChangelistDialog2" timestamp="1579425301554">
       <screen x="0" y="23" width="1920" height="979" />
     </state>
-    <state x="746" y="182" width="928" height="813" key="CommitChangelistDialog2/0.23.1920.979@0.23.1920.979" timestamp="1578939560970" />
+    <state x="746" y="182" width="928" height="813" key="CommitChangelistDialog2/0.23.1920.979@0.23.1920.979" timestamp="1579425301554" />
+    <state x="827" y="413" key="Github.ShareDialog" timestamp="1578939968724">
+      <screen x="0" y="23" width="1920" height="979" />
+    </state>
+    <state x="827" y="413" key="Github.ShareDialog/0.23.1920.979@0.23.1920.979" timestamp="1578939968724" />
     <state width="866" height="325" key="GridCell.Tab.0.bottom" timestamp="1578848098906">
       <screen x="0" y="23" width="1920" height="979" />
     </state>
@@ -242,10 +255,10 @@
       <screen x="0" y="23" width="1920" height="979" />
     </state>
     <state width="866" height="325" key="GridCell.Tab.1.right/0.23.1920.979@0.23.1920.979" timestamp="1578848098907" />
-    <state x="448" y="94" key="SettingsEditor" timestamp="1578939406456">
+    <state x="448" y="94" key="SettingsEditor" timestamp="1578939908378">
       <screen x="0" y="23" width="1920" height="979" />
     </state>
-    <state x="448" y="94" key="SettingsEditor/0.23.1920.979@0.23.1920.979" timestamp="1578939406456" />
+    <state x="448" y="94" key="SettingsEditor/0.23.1920.979@0.23.1920.979" timestamp="1578939908378" />
     <state x="560" y="252" key="Vcs.Push.Dialog.v2" timestamp="1578939458049">
       <screen x="0" y="23" width="1920" height="979" />
     </state>
