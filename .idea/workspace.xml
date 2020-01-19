@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="215af47b-a92d-4174-a8b5-5fd962dd8eac" name="Default Changelist" comment="New changes">
+    <list default="true" id="215af47b-a92d-4174-a8b5-5fd962dd8eac" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
     </list>
@@ -187,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578939613061</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="New changes">
+      <created>1579425339827</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1579425339827</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,10 +223,18 @@
       <screen x="0" y="23" width="1920" height="979" />
     </state>
     <state x="811" y="260" key="#Deployment/0.23.1920.979@0.23.1920.979" timestamp="1578939495830" />
-    <state x="746" y="182" width="928" height="813" key="CommitChangelistDialog2" timestamp="1579425301554">
+    <state x="862" y="178" key="#Notifications" timestamp="1579425519551">
       <screen x="0" y="23" width="1920" height="979" />
     </state>
-    <state x="746" y="182" width="928" height="813" key="CommitChangelistDialog2/0.23.1920.979@0.23.1920.979" timestamp="1579425301554" />
+    <state x="862" y="178" key="#Notifications/0.23.1920.979@0.23.1920.979" timestamp="1579425519551" />
+    <state x="1112" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579425433480">
+      <screen x="0" y="23" width="1920" height="979" />
+    </state>
+    <state x="1112" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1920.979@0.23.1920.979" timestamp="1579425433480" />
+    <state x="746" y="182" width="928" height="813" key="CommitChangelistDialog2" timestamp="1579425339636">
+      <screen x="0" y="23" width="1920" height="979" />
+    </state>
+    <state x="746" y="182" width="928" height="813" key="CommitChangelistDialog2/0.23.1920.979@0.23.1920.979" timestamp="1579425339636" />
     <state x="827" y="413" key="Github.ShareDialog" timestamp="1578939968724">
       <screen x="0" y="23" width="1920" height="979" />
     </state>
@@ -267,9 +283,9 @@
       <screen x="0" y="23" width="1920" height="979" />
     </state>
     <state x="639" y="345" key="com.intellij.ide.util.TipDialog/0.23.1920.979@0.23.1920.979" timestamp="1578939137311" />
-    <state x="1255" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578847957804">
+    <state x="1255" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579425455711">
       <screen x="0" y="23" width="1920" height="979" />
     </state>
-    <state x="1255" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.979@0.23.1920.979" timestamp="1578847957804" />
+    <state x="1255" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.979@0.23.1920.979" timestamp="1579425455711" />
   </component>
 </project>
