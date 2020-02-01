@@ -2,7 +2,10 @@ public class Exercises {
     public static void main(String[] args) {
         //printMegaBytesAndKiloBytes(5000);
         //shouldWakeUp(true, 0);
-        isLeapYear(2017);
+        //isLeapYear(2017);
+        //areEqualByThreeDecimalPlaces(-3.1756, -3.175);
+        //hasEqualSum(1, -1, 0);
+        //hasTeen(22, 23, 34);
     }
 
     public static void printMegaBytesAndKiloBytes (int kiloBytes){
@@ -38,6 +41,44 @@ public class Exercises {
             }
         } else {
         System.out.println("false");
+        }
+    }
+
+    public static boolean areEqualByThreeDecimalPlaces (double a, double b) {
+        int castedFirstParam = (int) (a*1000);
+        int castedSecondParam = (int) (b*1000);
+        if (castedFirstParam == castedSecondParam){
+            System.out.println("True");
+            return true;
+        } else {
+            System.out.println("True");
+            return false;
+        }
+    }
+
+    public static boolean hasEqualSum (int a, int b, int c){
+        if ((a+b) == c){
+            System.out.println("True");
+            return true;
+        } else {
+            System.out.println("False");
+            return false;
+        }
+    }
+
+    public static boolean hasTeen (int firstAge, int secondAge, int thirdAge) {
+        if (firstAge >= 13 && firstAge <= 19){
+            System.out.println(firstAge + " True");
+            return true;
+        } else if (secondAge >= 13 && secondAge <= 19){
+            System.out.println(secondAge + " True");
+            return true;
+        } else if (thirdAge >= 13 && thirdAge <= 19){
+            System.out.println(thirdAge + " True");
+            return true;
+        } else {
+            System.out.println("False");
+            return false;
         }
     }
 }
